@@ -61,7 +61,6 @@ const Home: NextPage = () => {
   );
 
   const useCaseValue = methods.watch("useCase");
-  console.log("useCaseValue", useCaseValue);
 
   return (
     <>
